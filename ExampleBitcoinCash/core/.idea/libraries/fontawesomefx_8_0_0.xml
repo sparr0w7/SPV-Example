@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="fontawesomefx-8.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx/8.0.0/b42d82b8889fb77858d1f17e69dbdc24beb2ad25/fontawesomefx-8.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.jensd/fontawesomefx/8.0.0/e5c31f8691e16e255ce84a6fb8e70a9917bac8b8/fontawesomefx-8.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="qrgen-1.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.glxn/qrgen/1.3/e581726a5bffa3a5d624506ae145acbac3cc4a17/qrgen-1.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.glxn/qrgen/1.3/1a31c45b4eb8b58794c13b1b00cb6d181640b946/qrgen-1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

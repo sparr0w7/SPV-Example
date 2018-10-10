@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-728225146/bitcoinj.iml" filepath="$PROJECT_DIR$/.idea/modules/-728225146/bitcoinj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core.iml" filepath="$PROJECT_DIR$/.idea/modules/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1836435890/examples.iml" filepath="$PROJECT_DIR$/.idea/modules/1836435890/examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-811713262/tools.iml" filepath="$PROJECT_DIR$/.idea/modules/-811713262/tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1764535780/wallettemplate.iml" filepath="$PROJECT_DIR$/.idea/modules/-1764535780/wallettemplate.iml" />
+    </modules>
+  </component>
+</project>
